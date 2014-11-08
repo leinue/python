@@ -103,5 +103,4 @@ class predator(animal):
             animal=royale.animal(x,y)
             if animal:
                 animal.move()
-        cnt+=1
 
